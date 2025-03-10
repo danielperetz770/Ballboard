@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.board-table {
+    margin: 0 auto;
+}
+
+.cell {
+    width: 3.8em;
+    height: 3.8em;
+}
+
+.cell img {
+    width: 2.2em;
+    height: auto;
+}
+
+.floor {
+    background-color: gray;
+}
+
+.wall {
+    background-color: brown;
+}
